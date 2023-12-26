@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @oifluid
+- 👋 Hi, I’m @Shubham
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React 
 
-- 📫 How to reach me Shubham763288@gmail.com
+- 📫 How to reach me   wdevelopershubham@gmail.com
 
 <!---
 oifluid/oifluid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
